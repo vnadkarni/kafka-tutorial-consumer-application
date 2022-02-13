@@ -1,3 +1,15 @@
+# How to build your first Apache KafkaConsumer application
+
+***Question:***
+
+*How do you get started building your first Kafka Consumer application?*
+
+Steps are from: **[How to build your first Apache KafkaConsumer application using Confluent](https://developer.confluent.io/tutorials/creating-first-apache-kafka-consumer-application/confluent.html#create-the-kafka-consumer-application)**
+
+The numbers in black circles (❶, ❷, etc) refer to the step number in that Kafka tutorial at Confluent Developer.
+
+---
+
 ## Provision the cluster
 ❶
 1. Sign in to Confluent Cloud.
