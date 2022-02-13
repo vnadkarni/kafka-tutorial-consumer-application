@@ -1,3 +1,11 @@
 # Ignore Properties files specifically ccloud.properties and dev.properties
 *.properties
 
+
+# Ignore IDEA IntelliJ -created files
+.idea/
+
+
+# Ignore build files
+build/
+
