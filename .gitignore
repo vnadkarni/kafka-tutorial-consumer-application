@@ -1,0 +1,3 @@
+# Ignore Properties files specifically ccloud.properties and dev.properties
+*.properties
+
